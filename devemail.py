@@ -6,9 +6,9 @@ Job 3 for Testing the App is Failed.
 Please check the code and update it on GitHub
 '''
 # The mail address and password
-sender_address = 'mtabishk200@gmail.com'
-sender_pass = 'testing@123'
-reciever_address = 'taabishkhanday@gmail.com'
+sender_address = 'XXXXXXXXXXXXXXXXXXXX'
+sender_pass = 'XXXXXXXXXXXXXXXXXX'
+reciever_address = 'XXXXXXXXXXXXXXXXXX'
 
 # setup the MIME
 message = MIMEMultipart()

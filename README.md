@@ -12,8 +12,9 @@
 3. Create a job chain of job1, job2, job3 and job4 using build pipeline plugin in Jenkins 
 
  Job 1: Pull the Github repo automatically when some developers push the repository to Github.
-Job2: 
-1. By looking at the code or program file, Jenkins should automatically start the respective language interpreter installed image container to deploy code on top of Kubernetes ( eg. If code is of PHP, then Jenkins should start the container that has PHP already installed )
+
+ Job2: 
+   1. By looking at the code or program file, Jenkins should automatically start the respective language interpreter installed image container to deploy code on top of Kubernetes      (   eg. If code is of PHP, then Jenkins should start the container that has PHP already installed )
 
    2. Expose your pod so that testing team could perform the testing on the pod
 
